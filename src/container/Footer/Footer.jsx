@@ -14,7 +14,7 @@ const Footer = () => {
             <p className='p__opensans'>+1 231 988 7865</p>
           </div>
           <div className='app__footer-links_logo'>
-            <img src={images.gericht} alt='footer_logo' />
+            <img src={images.meridian} alt='footer_logo' />
             <p className='p__opensans'>"The best way to find yourself is to lose youself in service of others"</p>
             <img src={images.spoon} alt='spoon_img' style={{marginTop:15}} />
 
