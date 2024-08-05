@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fd2cab785a293cc91df045f10bcadfa",
+    "revision": "6063967ecfe9b19abc3ef2c1c7fcefe9",
     "url": "/modern_restuarant/index.html"
   },
   {
-    "revision": "fb969344ecd45d8b53a3",
-    "url": "/modern_restuarant/static/css/main.977a4bd4.chunk.css"
+    "revision": "5e1b2555b116b3d380f2",
+    "url": "/modern_restuarant/static/css/main.852e7112.chunk.css"
   },
   {
     "revision": "a143bafa074471064c43",
     "url": "/modern_restuarant/static/js/2.bd9dfd6d.chunk.js"
   },
   {
-    "revision": "fb969344ecd45d8b53a3",
-    "url": "/modern_restuarant/static/js/main.d20109c0.chunk.js"
+    "revision": "5e1b2555b116b3d380f2",
+    "url": "/modern_restuarant/static/js/main.0317d91e.chunk.js"
   },
   {
     "revision": "e2ad60d4321fe09e2d05",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/modern_restuarant/static/media/menu.cc546162.png"
   },
   {
-    "revision": "77d1950a460b03e7ba7c6b08ea240f4a",
-    "url": "/modern_restuarant/static/media/meridian.77d1950a.png"
+    "revision": "463626fc76446fc9d0e3365d8b365837",
+    "url": "/modern_restuarant/static/media/meridian.463626fc.png"
   },
   {
     "revision": "179769474d7506d29c78a6bec834b00c",
